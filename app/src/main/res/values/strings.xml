@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="heading">Welcome To Tic-Tac-Toe</string>
+    <string name="gridesc">Our Main Grid</string>
+    <string name="cross">Cross</string>
+    <string name="cell">Cell</string>
+    <string name="instrucTap">Tap On A grid of Your Choice</string>
+    <string name="instrucfor1">1st Player\'s Turn-</string>
+    <string name="instrucfor2">2nd Player\'s Turn-</string>
+</resources>
